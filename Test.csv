@@ -1,0 +1,65 @@
+﻿QUESTION,ANSWER
+What is Python?,Python is a high-level and object-oriented programming language with unified semantics designed primarily for developing apps and the web. It is the core language in the field of Rapid Application Development (RAD) as it offers options such as dynamic binding and dynamic typing.
+What are the benefits of Python?," The benefits of Python are as follows: 
+
+Speed and Productivity: Utilizing the productivity and speed of Python will enhance the process control capabilities and possesses strong integration.
+Extensive Support for Libraries: Python provides a large standard library that includes areas such as operating system interfaces, web service tools, internet protocols, and string protocols. Most of the programming tasks are already been scripted in the standard library which reduces effort and time.
+User-friendly Data Structures: Python has an in-built dictionary of data structures that are used to build fast user-friendly data structures.
+Existence of Third-Party Modules: The presence of third-party modules in the Python Package Index (PyPI) will make Python capable to interact with other platforms and languages.
+Easy Learning: Python provides excellent readability and simple syntaxes to make it easy for beginners to learn."
+What are the key features of Python?," The following are the significant features of Python, and they are:
+
+Interpreted Language: Python is an interpreted language that is used to execute the code line by line at a time. This makes debugging easy.
+Highly Portable: Python can run on different platforms such as Unix, Macintosh, Linux, Windows, and so on. So, we can say that it is a highly portable language.
+Extensible: It ensures that the Python code can be compiled on various other languages such as C, C++, and so on.
+GUI programming Support: It implies that Python provides support to develop graphical user interfaces"
+,
+What type of language is Python? Programming or Scripting?,"Python is suitable for scripting, but in general, it is considered a general-purpose programming language."
+What are the applications of Python?,"The applications of Python are as follows:
+
+GUI-based desktop applications
+Image processing applications
+Business and Enterprise applications
+Prototyping
+Web and web framework applications"
+What is the difference between a list and a tuple in Python?,"The difference between a tuple and list is as follows:
+
+List	Tuple
+The list is mutable (can be changed)	A tuple is immutable (remains constant)
+These lists performance is slower	Tuple performance is faster when compared to lists
+Syntax: list_1 = [20, ‘Mindmajix’, 30]	Syntax: tup_1 = (20, ‘Mindmajix’, 30)"
+What are the global and local variables in Python?,"Global Variables in Python: The variables that are declared outside the function are called global variables. These variables can be accessed or invoked by any function in the program.
+
+Example: 
+
+def v() :
+print g
+g = ""welcome to mindmajix""
+v()
+Output:
+
+Welcome to mindmajix
+Local Variables in Python: The variables that are declared inside a function are called local variables. These types of variables can be accessed only inside the function."
+Define PYTHON PATH?,"PYTHONPATH is an environmental variable that is used when we import a module. Suppose at any time we import a module, PYTHONPATH is used to check the presence of the modules that are imported in different directories. Loading of the module will be determined by interpreters."
+ What are the two major loop statements?,for and while
+What do you understand by the term PEP 8?, PEP 8 is the Python latest coding convention and it is abbreviated as Python Enhancement Proposal. It is all about how to format your Python code for maximum readability.
+How memory management is done in Python?,"In Python memory management is done using private heap space. The private heap is the storage area for all the data structures and objects. The interpreter has access to the private heap and the programmer cannot access this private heap. 
+The storage allocation for the data structures and objects in Python is done by the memory manager. The access for some tools is provided by core API for programmers to code.
+The built-in garbage collector in Python is used to recycle all the unused memory so that it can be available for heap storage area."
+ Define modules in Python?,"The module is defined as a file that includes a set of various functions and Python statements that we want to add to our application. 
+
+Example of creating a module: 
+
+In order to create a module first, we need to save the code that we want in a file with .py extension.
+
+Save the module with module.py
+
+def wishes(name):
+Print(""Hi, "" + name)"
+ What are the built-in types available in Python?,"The built-in types in Python are as follows:
+
+Integer
+Complex numbers
+Floating-point numbers
+Strings
+Built-in functions"
